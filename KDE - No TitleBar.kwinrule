@@ -1,0 +1,6 @@
+[No Titlebar]
+Description=No Titlebar
+noborder=true
+noborderrule=2
+wmclass=.*
+wmclassmatch=3
